@@ -27,3 +27,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]!=0:
                 nums[j],nums[i],j = nums[i],nums[j],j+1
+nums = [0,1,0,3,12]
+print("Initial array: ",nums)
+moveZeroes(nums)
+print("Final array: ",nums)
