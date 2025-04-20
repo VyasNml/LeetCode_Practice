@@ -20,3 +20,14 @@ Constraints:
 1 <= nums.length <= 104
 -231 <= nums[i] <= 231 - 1
 '''
+
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        
+        j=0
+        for i in range(len(nums)):
+            if nums[i]!=0:
+                nums[j],nums[i],j = nums[i],nums[j],j+1
