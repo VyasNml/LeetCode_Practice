@@ -18,11 +18,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 ## Stack
 |  |
 | ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Simulation
@@ -56,4 +59,8 @@
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
