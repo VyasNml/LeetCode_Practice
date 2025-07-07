@@ -32,6 +32,7 @@
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -48,9 +49,11 @@
 ## Stack
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
