@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
