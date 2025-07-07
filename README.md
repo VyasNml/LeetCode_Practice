@@ -32,6 +32,7 @@
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
