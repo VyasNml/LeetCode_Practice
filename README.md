@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -77,4 +79,8 @@
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
