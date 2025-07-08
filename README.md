@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -51,6 +53,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
@@ -62,5 +65,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
