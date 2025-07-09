@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -92,12 +93,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
