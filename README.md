@@ -24,6 +24,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
@@ -31,6 +32,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
