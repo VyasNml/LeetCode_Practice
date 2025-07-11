@@ -30,6 +30,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
