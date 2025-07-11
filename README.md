@@ -19,11 +19,13 @@
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
