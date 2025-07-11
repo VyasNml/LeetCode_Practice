@@ -32,6 +32,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
