@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
@@ -40,6 +41,7 @@
 | [0086-partition-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
