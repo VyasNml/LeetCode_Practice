@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VyasNml/LeetCode_Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VyasNml/LeetCode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/VyasNml/LeetCode_Practice/tree/master/0058-length-of-last-word) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0086-partition-list) |
@@ -224,4 +226,8 @@
 | ------- |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
