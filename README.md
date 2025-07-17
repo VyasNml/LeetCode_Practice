@@ -73,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/VyasNml/LeetCode_Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VyasNml/LeetCode_Practice/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/VyasNml/LeetCode_Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VyasNml/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
