@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
