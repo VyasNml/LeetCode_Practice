@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -237,6 +239,7 @@
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
