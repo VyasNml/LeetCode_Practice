@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | ------- |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
