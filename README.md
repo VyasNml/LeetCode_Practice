@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
@@ -234,6 +235,7 @@
 | ------- |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
