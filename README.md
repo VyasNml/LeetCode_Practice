@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
@@ -111,6 +112,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -134,6 +136,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
@@ -144,6 +147,7 @@
 | [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -245,5 +249,6 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
