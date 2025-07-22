@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -254,6 +255,11 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
