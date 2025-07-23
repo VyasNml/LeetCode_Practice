@@ -87,6 +87,7 @@
 | [0006-zigzag-conversion](https://github.com/VyasNml/LeetCode_Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VyasNml/LeetCode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/VyasNml/LeetCode_Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VyasNml/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/VyasNml/LeetCode_Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -240,6 +241,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VyasNml/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/VyasNml/LeetCode_Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/VyasNml/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0118-pascals-triangle) |
