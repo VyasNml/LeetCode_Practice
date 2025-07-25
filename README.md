@@ -35,6 +35,7 @@
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -169,6 +171,7 @@
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -179,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
