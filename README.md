@@ -29,6 +29,7 @@
 | [0120-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VyasNml/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -296,6 +297,7 @@
 | [0118-pascals-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VyasNml/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
 ## Memoization
