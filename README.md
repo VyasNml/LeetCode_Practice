@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VyasNml/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -289,6 +291,7 @@
 | [0005-longest-palindromic-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VyasNml/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0120-triangle) |
