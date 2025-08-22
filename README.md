@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -124,6 +125,7 @@
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
+| [1448-maximum-69-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1448-maximum-69-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
