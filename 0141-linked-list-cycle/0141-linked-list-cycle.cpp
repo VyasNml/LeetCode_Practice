@@ -16,7 +16,6 @@ public:
             if(m[temp] > 1)return true;
             temp = temp->next;
         }
-
         return false;
     }
 };
