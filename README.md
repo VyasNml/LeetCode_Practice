@@ -12,6 +12,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1448-maximum-69-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
