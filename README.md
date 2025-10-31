@@ -303,6 +303,7 @@
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
