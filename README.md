@@ -38,6 +38,7 @@
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
