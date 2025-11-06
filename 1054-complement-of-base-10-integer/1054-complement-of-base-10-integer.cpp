@@ -3,10 +3,10 @@ public:
     int bitwiseComplement(int n) {
         if(n==0)return 1;
         int mask=1;
-        while(n>mask){
+        while(mask <= n){
             mask*=2;
         }
         mask--;
-        return (mask&(~n));
+        return n^mask;
     }
 };
