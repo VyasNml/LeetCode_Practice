@@ -13,6 +13,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VyasNml/LeetCode_Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VyasNml/LeetCode_Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
