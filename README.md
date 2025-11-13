@@ -54,6 +54,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -109,6 +110,7 @@
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -222,6 +224,7 @@
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
