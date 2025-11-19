@@ -54,6 +54,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2058-concatenation-of-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VyasNml/LeetCode_Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
