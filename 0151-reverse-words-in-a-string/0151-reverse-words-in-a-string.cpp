@@ -1,22 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string sr="";
-        vector<string> arr;
-        for(int i=0;i<s.size();i++){
-            if(s[i]!=' '){
-                sr+=s[i];
-            }else{
-                if(!sr.empty()) arr.push_back(sr);
-                sr="";
+        unordered_map<int,string> words;
+        int i=0,count=0;
+        string w="";
+        while(i<s.length()){//O(n) -> O(n)
+            while(s[i]==' ' && i< s.length()){
+                i++;
+            }//O(1)
+            while(s[i]!=' ' && i<s.length()){
+                w+=s[i++];
+            }//O(word length)
+            if(w!=""){
+                words[count++] = w;
+                w="";
             }
+            i++;
         }
-        if(!sr.empty()) arr.push_back(sr);
-        sr = "";
-        for(int i =arr.size()-1;i>=0;i--){
-            sr+=arr[i];
-            if(i!=0)sr+=" ";
-        }
-        return sr;
+        s="";
+        for(int i=count-1;i>=0;i--){
+            s+=words[i];
+            if(i!=0)s+=" ";
+        } //O(number of words)
+        return s;  //---> O(n) + O(words)
     }
 };
