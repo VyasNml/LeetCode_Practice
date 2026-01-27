@@ -41,6 +41,7 @@
 | [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -380,6 +381,7 @@
 | [0035-search-insert-position](https://github.com/VyasNml/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VyasNml/LeetCode_Practice/tree/master/0704-binary-search) |
