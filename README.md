@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VyasNml/LeetCode_Practice/tree/master/0075-sort-colors) |
@@ -374,6 +375,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
