@@ -1,15 +1,12 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int ans = INT_MIN;
-        int sum = 0;
-        for (auto ele : nums) {
-            sum += ele;
-            ans = max(sum, ans);
-            if (sum < 0)
-                sum = 0;
+        int currSum=0, Maximum=INT_MIN;
+        for(int i=0;i<nums.size();i++){
+            currSum += nums[i];
+            Maximum = std::max(currSum,Maximum);
+            if(currSum<0)currSum=0;
         }
-
-        return ans;
+        return Maximum;
     }
 };
