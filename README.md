@@ -66,6 +66,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -336,6 +337,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
 | ------- |
