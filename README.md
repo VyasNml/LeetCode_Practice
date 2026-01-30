@@ -151,6 +151,7 @@
 | [0344-reverse-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0394-decode-string) |
 | [1894-merge-strings-alternately](https://github.com/VyasNml/LeetCode_Practice/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -232,6 +233,7 @@
 | [0283-move-zeroes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
@@ -371,6 +373,7 @@
 | [0152-maximum-product-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
