@@ -31,6 +31,7 @@
 | [0035-search-insert-position](https://github.com/VyasNml/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/VyasNml/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
@@ -200,6 +201,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
