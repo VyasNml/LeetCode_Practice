@@ -11,35 +11,30 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        int ar1[200];
-        int ar2[200];
-        int m=0,n=0;
-        
-        ListNode* tm = head;
-        while(tm!=nullptr){
-            if(tm->val < x){
-                ar1[m++] = tm->val;
-            }                
-            tm = tm->next;
-        }
+        if(head==nullptr || head->next == nullptr)return head;
+        ListNode* h1 = new ListNode(0);
+        ListNode* h2 = new ListNode(0);
 
-        tm = head;
-        while(tm!=nullptr){
-            if(tm->val >= x){
-                ar2[n++] = tm->val;
-            }                
-            tm = tm->next;
+        ListNode* i = h1;
+        ListNode* j = h2;
+
+        ListNode* temp=head;
+
+        while(temp!=nullptr){
+            if(temp->val<x){
+                i->next=temp;
+                i=i->next;
+            }else{
+                j->next=temp;
+                j=j->next;
+
+            }
+            temp = temp->next;
         }
-        tm = head;
-        for(int i=0;i<m;i++){
-            tm->val = ar1[i];
-            tm = tm->next;
-        }
-        for(int i=0;i<n;i++){
-            tm->val = ar2[i];
-            tm = tm->next;
-        }       
-        
-        return head;
+        j->next = nullptr;
+        h2=h2->next;
+        i->next = h2;
+        h1=h1->next;
+        return h1;
     }
 };
