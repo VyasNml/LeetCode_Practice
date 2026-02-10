@@ -195,6 +195,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/VyasNml/LeetCode_Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
@@ -415,4 +416,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VyasNml/LeetCode_Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
