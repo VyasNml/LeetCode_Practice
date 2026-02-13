@@ -314,6 +314,7 @@
 | [0113-path-sum-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -341,6 +342,7 @@
 | [0113-path-sum-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -386,6 +388,7 @@
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
@@ -420,6 +423,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VyasNml/LeetCode_Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
