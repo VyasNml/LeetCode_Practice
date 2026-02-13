@@ -62,6 +62,7 @@
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Linked List
@@ -367,6 +369,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
@@ -419,6 +422,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VyasNml/LeetCode_Practice/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
 | ------- |
