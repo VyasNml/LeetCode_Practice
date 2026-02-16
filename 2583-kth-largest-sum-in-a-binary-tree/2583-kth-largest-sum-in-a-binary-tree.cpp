@@ -15,8 +15,7 @@ public:
         long long sum = 0;
 
         if(!root)return sum;
-        // priority_queue<int> ans;
-        vector<long long> ans;
+        priority_queue<long long> ans;
         queue<TreeNode*> q;
         q.push(root);
 
@@ -30,16 +29,13 @@ public:
                 sum+=node->val;
                 q.pop();
             }
-            // ans.push(sum);
-            ans.push_back(sum);
+            ans.push(sum);
         }
-        sort(ans.begin(),ans.end());
         if(k>ans.size()) return -1;
-        return ans[ans.size()-k];
 
-        // for(int i=0;i<k-1;i++){
-        //     ans.pop();
-        // }
-        // return ans.top();        
+        for(int i=0;i<k-1;i++){
+            ans.pop();
+        }
+        return ans.top();        
     }
 };
