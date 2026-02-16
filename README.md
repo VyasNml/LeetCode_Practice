@@ -315,6 +315,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -328,6 +329,7 @@
 | [0113-path-sum-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -343,6 +345,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -352,6 +355,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
