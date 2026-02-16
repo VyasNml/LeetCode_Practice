@@ -11,25 +11,16 @@
  */
 class Solution {
 public:
-    void traversal(TreeNode* p,TreeNode* q,bool& cond){
-        if(p!=nullptr && q!=nullptr){
-            if(p->val!=q->val){
-                cond=false;
-                return;
-            }
-            traversal(p->left,q->left,cond);
-            traversal(p->right,q->right,cond);
-        }else if(p==nullptr && q==nullptr){
-            return;
-        }else{
-            cond=false;
-        }
-    }
-
-
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool cond = true;
-        traversal(p,q,cond);
-        return cond;
+        if(p==nullptr && q==nullptr)return true;
+        else if(q!=nullptr && p!=nullptr){
+            if(q->val==p->val){
+                return true && isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
+            }else{
+                return false;
+            }
+        }else{
+            return false;
+        }
     }
 };
