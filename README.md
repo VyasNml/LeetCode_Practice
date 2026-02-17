@@ -36,6 +36,7 @@
 | [0078-subsets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VyasNml/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/VyasNml/LeetCode_Practice/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -319,6 +321,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VyasNml/LeetCode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -361,6 +364,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VyasNml/LeetCode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -456,6 +460,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VyasNml/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
