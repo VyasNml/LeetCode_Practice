@@ -13,27 +13,15 @@ class Solution {
 public:
     void insert(TreeNode* root, int val){
         if(root->val>val){
-            if(root->left){
-                insert(root->left,val);
-            }else{
-                root->left = new TreeNode(val);
-                return;
-            }
+            if(root->left)insert(root->left,val);
+            else root->left = new TreeNode(val);
         }else{
-            if(root->right){
-                insert(root->right,val);
-            }else{
-                root->right = new TreeNode(val);
-                return;
-            }
-
+            if(root->right)insert(root->right,val);
+            else root->right = new TreeNode(val);
         }
     }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        if(!root){
-            TreeNode* newNode = new TreeNode(val);
-            return newNode;
-        }
+        if(!root)return (new TreeNode(val));
         insert(root,val);
         return root;
     }
