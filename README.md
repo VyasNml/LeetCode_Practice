@@ -327,6 +327,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -345,6 +346,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -364,6 +366,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
