@@ -11,19 +11,25 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode* root,vector<int> &ans){
+    // void preOrder(TreeNode* root,vector<int> &ans){
+    void preOrder(TreeNode* root,multiset<int> &ans){
         if(!root)return;
-        ans.push_back(root->val);
+        // ans.push_back(root->val);
         preOrder(root->left,ans);
+        ans.insert(root->val);
         preOrder(root->right,ans);
 
     }
 
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> ans;
+        vector<int> Fans;
+        multiset<int> ans;
         preOrder(root1,ans);
         preOrder(root2,ans);
-        sort(ans.begin(),ans.end());
-        return ans;
+        // sort(ans.begin(),ans.end());
+        for(int x:ans){
+            Fans.push_back(x);
+        }
+        return Fans;
     }
 };
