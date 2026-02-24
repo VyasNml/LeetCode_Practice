@@ -9,10 +9,13 @@ public:
         if(image[r][c]!=original)return;
         image[r][c] = newColor;
         
-
+        // top
         DFS(r-1,c,image,original,newColor);
+        // bottom
         DFS(r+1,c,image,original,newColor);
+        // left
         DFS(r,c-1,image,original,newColor);
+        // right
         DFS(r,c+1,image,original,newColor);
 
 
