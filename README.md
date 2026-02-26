@@ -47,6 +47,7 @@
 | [0162-find-peak-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/VyasNml/LeetCode_Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0283-move-zeroes) |
@@ -368,6 +369,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -418,6 +420,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VyasNml/LeetCode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
@@ -517,6 +520,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 ## Design
 |  |
@@ -536,6 +540,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
