@@ -180,6 +180,7 @@
 | [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VyasNml/LeetCode_Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/VyasNml/LeetCode_Practice/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
