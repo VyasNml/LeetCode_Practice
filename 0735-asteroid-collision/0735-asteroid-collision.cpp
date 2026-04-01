@@ -3,27 +3,30 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         stack<int> st;
         for(int curr:asteroids){
-                bool destroyed = false;
-                while(!st.empty() && st.top()>0 && curr<0){
-                int topVal = st.top();
-                if(abs(topVal)<abs(curr)){
-                    st.pop();
-                    continue;
-                }else if(abs(topVal)>abs(curr)){
-                    destroyed=true;
-                }else{
-                    st.pop();
-                    destroyed=true;
+            if(curr>0){
+                st.push(curr);
+            }else{
+                bool destroy = false;
+                while(!destroy && !st.empty() && st.top()>0 && curr<0){
+                    if(st.top()==abs(curr)){
+                        st.pop();
+                        destroy = true;
+                    }else if(st.top()>abs(curr)){
+                        destroy = true;
+                    }else{
+                        st.pop();
+                    }
                 }
-                break;
+                if(!destroy){
+                    st.push(curr);
+                }
             }
-            if(!destroyed)st.push(curr);
-        }
-        vector<int> result;
+        }    
+        vector<int> ans;
         while(!st.empty()){
-            result.insert(result.begin(),st.top());
+            ans.insert(ans.begin(),st.top());
             st.pop();
         }
-        return result;
+        return ans;
     }
 };
