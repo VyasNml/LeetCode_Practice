@@ -64,6 +64,7 @@
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -151,6 +152,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VyasNml/LeetCode_Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
@@ -240,6 +242,7 @@
 | [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/VyasNml/LeetCode_Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
