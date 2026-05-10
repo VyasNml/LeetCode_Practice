@@ -83,6 +83,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 | [2751-robot-collisions](https://github.com/VyasNml/LeetCode_Practice/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -498,6 +499,7 @@
 | [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Memoization
 |  |
 | ------- |
