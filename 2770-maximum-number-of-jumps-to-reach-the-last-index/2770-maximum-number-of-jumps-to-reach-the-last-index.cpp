@@ -11,6 +11,7 @@ public:
 
             for(int j=i+1;j<n;j++){
                 int diff = nums[j]-nums[i];
+                
                 if(-target <= diff && diff <= target) {
                     dp[j] = max(dp[j], dp[i] + 1);
                 }
