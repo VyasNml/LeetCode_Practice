@@ -82,6 +82,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/VyasNml/LeetCode_Practice/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
@@ -252,6 +253,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/VyasNml/LeetCode_Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VyasNml/LeetCode_Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/VyasNml/LeetCode_Practice/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
