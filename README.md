@@ -82,6 +82,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/VyasNml/LeetCode_Practice/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -165,6 +166,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/VyasNml/LeetCode_Practice/tree/master/2784-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -300,6 +302,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/VyasNml/LeetCode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -531,6 +534,7 @@
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 ## Quickselect
 |  |
 | ------- |
