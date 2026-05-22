@@ -4,7 +4,6 @@ public:
         int ans,l=0,h=nums.size()-1;
         while(l<=h){
             int m = (l+h)/2;
-            cout << l <<" "<<m<<" "<< h<<"\n";
             if(nums[m]==target)return m;
             if(nums[l]<=nums[m]){
                 if(nums[m]>=target && target>=nums[l]){
