@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VyasNml/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VyasNml/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
@@ -516,6 +517,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VyasNml/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0098-validate-binary-search-tree) |
