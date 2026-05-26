@@ -170,6 +170,7 @@
 | [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/VyasNml/LeetCode_Practice/tree/master/2784-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -200,6 +201,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3396-valid-word](https://github.com/VyasNml/LeetCode_Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
 ## Greedy
