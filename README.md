@@ -20,6 +20,7 @@
 | [2383-add-two-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/2383-add-two-integers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
@@ -90,6 +91,7 @@
 | [2784-check-if-array-is-good](https://github.com/VyasNml/LeetCode_Practice/tree/master/2784-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
