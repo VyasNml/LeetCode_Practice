@@ -72,6 +72,7 @@
 | [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -164,6 +165,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VyasNml/LeetCode_Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
@@ -469,6 +471,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2486-most-frequent-even-element](https://github.com/VyasNml/LeetCode_Practice/tree/master/2486-most-frequent-even-element) |
 ## Sliding Window
 |  |
@@ -476,6 +479,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
