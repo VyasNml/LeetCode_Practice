@@ -69,6 +69,7 @@
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -162,6 +163,7 @@
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VyasNml/LeetCode_Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
@@ -473,6 +475,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
+| [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
