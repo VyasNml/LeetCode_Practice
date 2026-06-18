@@ -1,18 +1,21 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int zc=0;
-        int j=0;
-        int maxi = INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==0)zc++;
-            while(zc>k){
-                if(nums[j]==0){
-                    zc--;
+        int i=0,j=0,maxi=0,count=0;
+        while(j<nums.size()){
+            if(nums[j]==0){
+                if(count<=k){
+                    count++;
                 }
-                j++;
+                if(count>k){
+                    while(i<=j && count>k){
+                        if(nums[i]==0)count--;
+                        i++;
+                    }
+                }
             }
-            maxi = std::max(maxi,i-j+1);
+            maxi = max(maxi,j-i+1);
+            j++;
         }
         return maxi;
     }
