@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
@@ -545,6 +546,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
