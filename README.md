@@ -71,6 +71,7 @@
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/VyasNml/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
@@ -552,6 +553,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/VyasNml/LeetCode_Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VyasNml/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
