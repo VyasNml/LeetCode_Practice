@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/VyasNml/LeetCode_Practice/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VyasNml/LeetCode_Practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -548,6 +549,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/VyasNml/LeetCode_Practice/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
