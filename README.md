@@ -82,6 +82,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1109-corporate-flight-bookings](https://github.com/VyasNml/LeetCode_Practice/tree/master/1109-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VyasNml/LeetCode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -560,6 +561,7 @@
 | [0875-koko-eating-bananas](https://github.com/VyasNml/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VyasNml/LeetCode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 ## Quickselect
