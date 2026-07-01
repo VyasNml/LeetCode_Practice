@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/VyasNml/LeetCode_Practice/tree/master/0441-arranging-coins) |
@@ -57,6 +58,7 @@
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VyasNml/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VyasNml/LeetCode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -168,6 +170,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/VyasNml/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
@@ -335,6 +338,7 @@
 | [0088-merge-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
@@ -516,6 +520,7 @@
 | [0191-number-of-1-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/VyasNml/LeetCode_Practice/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -556,6 +561,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VyasNml/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/VyasNml/LeetCode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/VyasNml/LeetCode_Practice/tree/master/0441-arranging-coins) |
