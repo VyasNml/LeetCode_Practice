@@ -212,6 +212,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VyasNml/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VyasNml/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VyasNml/LeetCode_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -402,6 +403,7 @@
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -431,6 +433,7 @@
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -461,6 +464,7 @@
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -483,6 +487,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/VyasNml/LeetCode_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -604,6 +609,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/VyasNml/LeetCode_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VyasNml/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/VyasNml/LeetCode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/VyasNml/LeetCode_Practice/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/VyasNml/LeetCode_Practice/tree/master/0901-online-stock-span) |
