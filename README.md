@@ -72,6 +72,7 @@
 | [0496-next-greater-element-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/VyasNml/LeetCode_Practice/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/VyasNml/LeetCode_Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
@@ -439,6 +440,7 @@
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
@@ -495,6 +497,7 @@
 | [0404-sum-of-left-leaves](https://github.com/VyasNml/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -608,6 +611,7 @@
 | [0054-spiral-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 ## Design
 |  |
@@ -631,6 +635,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
