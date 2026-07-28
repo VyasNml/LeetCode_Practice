@@ -65,6 +65,7 @@
 | [0303-range-sum-query-immutable](https://github.com/VyasNml/LeetCode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
@@ -349,6 +350,7 @@
 | [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/VyasNml/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
@@ -378,6 +380,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VyasNml/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
@@ -591,6 +594,7 @@
 | [0268-missing-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VyasNml/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/VyasNml/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/VyasNml/LeetCode_Practice/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -615,6 +619,7 @@
 | [0074-search-a-2d-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/VyasNml/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 ## Design
