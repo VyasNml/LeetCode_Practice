@@ -79,6 +79,7 @@
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VyasNml/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VyasNml/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/VyasNml/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/VyasNml/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/VyasNml/LeetCode_Practice/tree/master/0904-fruit-into-baskets) |
@@ -571,6 +572,7 @@
 | [0392-is-subsequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/VyasNml/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/VyasNml/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Memoization
 |  |
