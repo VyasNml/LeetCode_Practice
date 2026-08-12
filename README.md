@@ -108,6 +108,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VyasNml/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/VyasNml/LeetCode_Practice/tree/master/2784-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VyasNml/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -200,6 +201,7 @@
 | [2540-minimum-common-value](https://github.com/VyasNml/LeetCode_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/VyasNml/LeetCode_Practice/tree/master/2784-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VyasNml/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -534,6 +536,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VyasNml/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
