@@ -93,6 +93,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VyasNml/LeetCode_Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VyasNml/LeetCode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -195,6 +196,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VyasNml/LeetCode_Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/VyasNml/LeetCode_Practice/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/1904-second-largest-digit-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -363,6 +365,7 @@
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VyasNml/LeetCode_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -659,4 +662,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
