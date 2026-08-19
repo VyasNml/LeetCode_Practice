@@ -49,6 +49,7 @@
 | [0118-pascals-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VyasNml/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VyasNml/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/VyasNml/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0136-single-number) |
@@ -176,6 +177,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VyasNml/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VyasNml/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/VyasNml/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VyasNml/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/VyasNml/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
@@ -654,6 +656,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VyasNml/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VyasNml/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VyasNml/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VyasNml/LeetCode_Practice/tree/master/0547-number-of-provinces) |
