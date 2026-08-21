@@ -6,6 +6,7 @@ public:
             for(int j=i+1;j<nums.size();j++){
                 if(nums[j]+nums[i]==target){
                     ans.push_back(i);
+                    
                     ans.push_back(j);
                     break;
                 }
