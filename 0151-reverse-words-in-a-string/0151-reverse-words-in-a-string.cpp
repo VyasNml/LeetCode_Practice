@@ -5,14 +5,13 @@ public:
         string ans="";
         while(i<s.length()){
             while(s[i]==' '){
-                i++;
-                if(i>=s.length())break;
+                if(++i>=s.length())break;
             }
             if(i>=s.length())break;
             string word="";
             while(s[i]!=' '){
-                word+=s[i++];
-                if(i>=s.length())break;
+                word+=s[i];
+                if(++i>=s.length())break;
             }
             ans.insert(0," "+word);
         }
