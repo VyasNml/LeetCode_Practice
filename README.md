@@ -117,6 +117,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3904-smallest-stable-index-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VyasNml/LeetCode_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [3904-smallest-stable-index-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
