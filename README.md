@@ -26,6 +26,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3870-count-commas-in-range](https://github.com/VyasNml/LeetCode_Practice/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
