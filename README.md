@@ -439,6 +439,7 @@
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -471,6 +472,7 @@
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0938-range-sum-of-bst](https://github.com/VyasNml/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VyasNml/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
