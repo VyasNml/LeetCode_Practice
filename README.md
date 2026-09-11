@@ -116,6 +116,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VyasNml/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VyasNml/LeetCode_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VyasNml/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3904-smallest-stable-index-ii](https://github.com/VyasNml/LeetCode_Practice/tree/master/3904-smallest-stable-index-ii) |
@@ -174,6 +175,7 @@
 | [0394-decode-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VyasNml/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VyasNml/LeetCode_Practice/tree/master/2573-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VyasNml/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [2902-max-pair-sum-in-an-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VyasNml/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VyasNml/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VyasNml/LeetCode_Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -265,6 +268,7 @@
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/VyasNml/LeetCode_Practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VyasNml/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
