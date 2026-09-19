@@ -90,6 +90,7 @@
 | [0917-boats-to-save-people](https://github.com/VyasNml/LeetCode_Practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/VyasNml/LeetCode_Practice/tree/master/0941-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VyasNml/LeetCode_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/VyasNml/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VyasNml/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VyasNml/LeetCode_Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1109-corporate-flight-bookings](https://github.com/VyasNml/LeetCode_Practice/tree/master/1109-corporate-flight-bookings) |
@@ -539,6 +540,7 @@
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/VyasNml/LeetCode_Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/VyasNml/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/VyasNml/LeetCode_Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Queue
@@ -657,6 +659,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VyasNml/LeetCode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/VyasNml/LeetCode_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VyasNml/LeetCode_Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/VyasNml/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
