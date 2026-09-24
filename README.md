@@ -258,6 +258,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/VyasNml/LeetCode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3396-valid-word](https://github.com/VyasNml/LeetCode_Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [2751-robot-collisions](https://github.com/VyasNml/LeetCode_Practice/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VyasNml/LeetCode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VyasNml/LeetCode_Practice/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/VyasNml/LeetCode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
